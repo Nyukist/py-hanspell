@@ -12,7 +12,7 @@ def install():
     desc = ''
     setup(
         name='py-hanspell',
-        version='1.1',
+        version='1.2',
         description=desc,
         long_description=desc,
         author='SuHun Han',
